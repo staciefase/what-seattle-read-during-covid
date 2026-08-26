@@ -1,5 +1,9 @@
 ### What Seattle Read During Covid: A longitudinal analysis of Seattle Public Library borrowing patterns during and after the Covid-19 pandemic (2018-2025).
 
+#### Links
+- [Paper](https://github.com/staciefase/what-seattle-read-during-covid/blob/main/What%20Seattle%20Read%20During%20Covid.pdf)
+- [Jupyter Notebook](https://github.com/staciefase/what-seattle-read-during-covid/blob/main/What%20Seattle%20Read%20During%20Covid.ipynb)
+
 #### Overview
 
 During the Covid-19 pandemic, libraries faced unprecedented disruptions. Physical spaces closed, digital services expanded, and many aspects of daily life moved online. This project uses public Seattle Public Library circulation data to examine how borrowing behavior changed before, during, and after the pandemic. Using more than 51 million checkout records from the Seattle Open Data portal, I analyzed borrowing trends across multiple dimensions, including:
